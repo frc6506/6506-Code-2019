@@ -4,6 +4,9 @@ Upstream: https://github.com/x64-bit/6506-Code-2019
 Team website: https://steelboot.weebly.com
 Email Address: FRCteam6506@gmail.com
 
+## Original repository description:
+First edition of team 6506's robot code. Not recommended for learning 
+
 ## Original repository readme:
 UPDATE 4/17/2019:  Due to technical difficulties, problematic development and issues with version control, as well as this code being outdated by several months, this repository will no longer be updated.  Instead, another repository with the revamped code will be created.  The new code will use purely timed robot, as it turns out we were using a combination of different programming styles/frameworks.  The working release from both the Fresno regional and the Monterey Bay regional has been lost due to the afforementioned issues.  :(
 ------------------------------------------------------------------------------------------
